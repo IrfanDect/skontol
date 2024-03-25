@@ -1,0 +1,10 @@
+setuptools
+docopt
+
+[test]
+coverage
+pytest
+pytest-cov
+pytest-ordering
+rich
+testfixtures
